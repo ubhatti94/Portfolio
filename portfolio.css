@@ -1,0 +1,116 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url("https://fonts.googleapis.com/css?family=:100");
+@font-face{
+    font-family:"UnifrakturMaguntia";
+    src:url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@278&family=UnifrakturMaguntia&display=swap');
+}
+
+html{
+    min-width: 100%;
+}
+h2{
+    margin:0%;
+    border:0px;
+}
+.header, .head{
+    text-align: left;
+    padding:0.6rem;
+    position:sticky;
+    top:0;
+    font-family:Garamond, "Times New Roman", Goergia; 
+   
+}
+.head{
+    background-image:url('');
+    background-color: white;
+    color:black;
+}
+.header{
+    background-color:darkcyan;
+}
+#ed{
+    font-family: "UnifrakturMaguntia",cursive;
+    background-color:maroon; 
+   
+    
+}
+.body{
+    background-color:white;
+    color:bisque;
+    background-size:cover;
+    
+   
+    margin:0;
+    padding:0;
+    border:none;
+    
+}
+#skil{
+    background-color:lightcoral;
+    color:darkcyan;
+}
+#A1{
+   background-color:white;
+    background-image: url(".jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:auto;
+    color:black;
+    padding:1rem;
+    
+}
+#B2{
+    
+   
+    background-image:url("https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Brooklyn_College_Seal.svg/800px-Brooklyn_College_Seal.svg.png");
+    background-repeat: no-repeat;
+    background-size:200px;
+    background-position:25px 70px;
+    height:auto;
+    color:maroon;
+    padding-top:20px;
+    padding-bottom:40px;
+    text-align: left;
+    
+   
+    
+   
+}
+#B3{
+    font-size:20px;
+    font-style:italic;
+    font-family: Garamond;
+    position:0px;
+   color:black;
+    padding-top: 10px;
+    padding-left: 260px;
+    padding-right:60px;
+   
+    
+}
+#B4{
+    font-size:22px;
+    color:maroon;
+    text-align:left;
+    padding-left:260px;
+}
+#C3{
+      background-color:white;
+   
+    color:sandybrown;
+    padding:1rem;
+    height:auto;
+}
+#D4{
+     background-color:cadetblue;
+   
+    color:antiquewhite;
+    padding:1rem;
+    height:auto;
+}
+.section{
+    height:auto;
+}
+    
